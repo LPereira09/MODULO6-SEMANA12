@@ -1,0 +1,7 @@
+1. El ciudadano accede a la plataforma y crea una nueva causa en pocos clics.  
+2. La causa queda registrada automáticamente en la base de datos con un identificador único.  
+3. Otros ciudadanos pueden visualizar la causa y apoyarla con un clic.  
+4. El sistema contabiliza los apoyos recibidos en tiempo real y muestra el progreso.  
+5. Al alcanzar el número mínimo de apoyos, el sistema genera un documento oficial en formato PDF con la petición.  
+6. El documento queda disponible para descarga y envío a las autoridades competentes.  
+7. El sistema notifica al creador de la causa sobre el estado y avances de su petición.
